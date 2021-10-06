@@ -1,4 +1,4 @@
-- really bored computer science student
+- software developer at CERTI
 - i like to make stuff but not that much really
 - i learn a lot of stuff halfway and dont finish but thats fine
 - jack of all trades
