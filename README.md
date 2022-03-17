@@ -7,11 +7,7 @@
 - I learn a lot of stuff halfway and dont finish but that's fine I guess
 - Jack of all trades, master of none
 
-can work with most technologies but node and ts are the best
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=000000)
-
-![NodeJS](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js&logoColor=339933)
+can work with most technologies but ![NodeJS](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js&logoColor=339933) and ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=000000) are the best
 
 <!---
 carloscdante/carloscdante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
