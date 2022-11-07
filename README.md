@@ -2,7 +2,7 @@
 
 ## hi i devloop
 
-- I'm a web developer and networking enthusiast
+I'm a web developer and networking enthusiast
 
 Currently working at ![Timeware](https://www.timeware.com.br) as a back-end developer.
 
