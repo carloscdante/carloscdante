@@ -12,6 +12,8 @@ Currently working at ![Timeware](https://www.timeware.com.br) as a back-end deve
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carloscdante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
+Learning Zig and Rust!
+
 I also have a ![blog](https://blog.mantyke.info)! Opinions are my own.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cdante)
