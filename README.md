@@ -16,7 +16,7 @@ Learning Zig and Rust!
 
 I also have a [blog](https://blog.mantyke.info)! Opinions are my own.
 
-Job history
+### Job history
 - 2021/09 | 2022/05 - Web Development Intern (Node.JS, Express, Angular)
 - 2022/05 | 20XX/XX - Back-end Developer, DevOps Specialist (Node.JS, NestJS, Express, Azure, GCP, Kubernetes...)
 
