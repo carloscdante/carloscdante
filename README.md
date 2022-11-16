@@ -1,4 +1,4 @@
-## hi i devloop
+## hi
 
 I'm a web developer and networking enthusiast
 
