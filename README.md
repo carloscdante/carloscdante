@@ -18,7 +18,7 @@ I also have a [blog](https://blog.mantyke.info)! Opinions are my own.
 
 ### Job history
 - 2021/09 | 2022/05 - Web Development Intern (Node.JS, Express, Angular)
-- 2022/05 | 20XX/XX - Back-end Developer, DevOps Specialist (Node.JS, NestJS, Express, Azure, GCP, Kubernetes...)
+- 2022/05 | 20XX/XX - Back-end Developer, DevOps Analyst (Node.JS, NestJS, Express, Azure, GCP, Kubernetes...)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cdante)
 
