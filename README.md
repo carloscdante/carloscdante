@@ -1,10 +1,6 @@
-## r4bbit
+## hello this is who i am
 
-Senior Support Engineer @ Fireflies.ai
-
-Founder @ Alegorica
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cdante)
+I started building stuff and figured out I really like it.
 
 <!---
 carloscdante/carloscdante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
